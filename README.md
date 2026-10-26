@@ -1,5 +1,7 @@
 # Inventory Intelligence & Procurement Planner
+## Dashboard Preview
 
+![Inventory Intelligence Dashboard](dashboard-preview.png)
 ### Advanced Excel | Inventory Analytics | Demand Forecasting | Procurement Planning
 
 ## Project Overview
